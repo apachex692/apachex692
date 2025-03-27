@@ -1,6 +1,6 @@
 # Sakthi (Sandy) Santhosh
 
-_I build infrastructure—just with computers instead of concrete._
+I’m a cloud-first AI engineer excelling at building and hosting AI-driven applications on AWS/Azure/Kubernetes.
 
 ## Repository Organization
 
