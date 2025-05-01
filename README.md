@@ -1,4 +1,4 @@
-# Sakthi (Sandy) Santhosh
+# Anumand Sakthi Santhosh
 
 Engineering is more than a job to me—it’s a “_responsibility_”. I take pride in building systems that are efficient, reliable, sustainable and built to last.
 
